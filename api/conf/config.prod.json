@@ -1,0 +1,13 @@
+﻿{
+  "server": {
+    "host": "127.0.0.1",
+    "port": 8085
+  },
+  "mongo": {
+    "host": null,
+    "port": null,
+    "db": null,
+    "user": null,
+    "pwd": null
+  }
+}
